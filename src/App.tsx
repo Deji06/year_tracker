@@ -34,7 +34,6 @@ const App = () => {
     const quote = quotes[Math.floor(Math.random() * quotes.length)];
 
     toast(
-      (t) => (
         <div className="text-left py-1">
           <div className="flex justify-between items-center mb-2">
             <p className="text-xl font-extrabold text-[#fdf0dd] tracking-tight">
@@ -79,7 +78,6 @@ const App = () => {
           border: "1px solid #f3f4f6",
         },
       }
-    );
   };
 
   return (

@@ -6,10 +6,10 @@ export interface Quote {
 
 export const quotes: Quote[] = [
   { quote: "No matter how hot your anger be, e no fit boil beans.", author: "Kitchen Logic", type: "pidgin" },
-  { quote: "Condition make crayfish bend.", author: "Reality Check", type: "pidgin" },
+  { quote: "Na condition make crayfish bend.", author: "Reality Check", type: "pidgin" },
   { quote: "If life show you pepper, make pepper soup with am.", author: "Naija Optimism", type: "pidgin" },
   { quote: "Water wey person go drink no go flow pass am.", author: "Destiny", type: "pidgin" },
-  { quote: "E go be! No shaking.", author: "Street Hope", type: "pidgin" },
+  { quote: "E go be! Ma fo.", author: "Street Hope", type: "pidgin" },
   { quote: "Small pikin wey wash im hand clean, go chop with elders.", author: "Protocol", type: "pidgin" },
   { quote: "Waitin concern agbero with overload?", author: "Focus", type: "pidgin" },
   { quote: "Pikin wey say im mama no go sleep, sef no go sleep.", author: "Natural Justice", type: "pidgin" },
